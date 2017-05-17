@@ -1,6 +1,6 @@
 var rateDollar = 26.43340;
 var rateEuro = 29.23270;
-var euroToDollar = 0.9201;
+var euroToDollar = 1.124;
 var ammountDollar = prompt("How much dollars?", "777");
 var ammountEuro = prompt("How much euro", "777");
 var ammountGRN1 = rateDollar * ammountDollar;
